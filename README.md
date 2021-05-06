@@ -10,4 +10,4 @@ As a marketing agency, I want a codebase that follows accessibility standards so
 
 Visit the deployed site at https://sjucaitis.github.io/CodeRefactor/
  
- ![](assets/Horiseon Screenshot.jpg)
+ ![](HoriseonScreenshot.jpg)

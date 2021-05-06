@@ -9,3 +9,5 @@ As a marketing agency, I want a codebase that follows accessibility standards so
 ## GitHub Pages Site
 
 Visit the deployed site at https://sjucaitis.github.io/CodeRefactor/
+ 
+ ![]screenshot[https://github.com/sjucaitis/CodeRefactor/blob/master/assets/Horiseon%20Screenshot.jpg]
